@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="APIRESTAUTOMTATION"
+           tests="1"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="6.109">
+    <properties></properties>
+
+
+
+            <testcase
+                name="testCreateBooking"
+                time="6.109"
+                classname="com.E2EAPIAutomationPractice.crud.CreateBookingTest">
+            </testcase>
+</testsuite>

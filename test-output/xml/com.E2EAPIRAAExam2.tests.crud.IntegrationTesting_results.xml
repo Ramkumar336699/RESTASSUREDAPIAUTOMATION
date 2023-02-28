@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="APIRESTAUTOMTATION"
+           tests="7"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="38.657">
+    <properties></properties>
+
+
+
+            <testcase
+                name="createBooking_UpdateBooking_GetBookingByIdAndVerify"
+                time="8.553"
+                classname="com.E2EAPIRAAExam2.tests.crud.IntegrationTesting">
+            </testcase>
+            <testcase
+                name="getExistingBooking_UpdateBooking_GetBookingIdAndVerify"
+                time="13.305"
+                classname="com.E2EAPIRAAExam2.tests.crud.IntegrationTesting">
+            </testcase>
+            <testcase
+                name="testCreateBooking"
+                time="3.893"
+                classname="com.E2EAPIRAAExam2.tests.crud.IntegrationTesting">
+            </testcase>
+            <testcase
+                name="createBooking_DeleteBooking_GetBookingByIdNotExists"
+                time="5.220"
+                classname="com.E2EAPIRAAExam2.tests.crud.IntegrationTesting">
+            </testcase>
+            <testcase
+                name="testCreateToken"
+                time="2.193"
+                classname="com.E2EAPIRAAExam2.tests.crud.IntegrationTesting">
+            </testcase>
+            <testcase
+                name="testDeleteBooking"
+                time="1.394"
+                classname="com.E2EAPIRAAExam2.tests.crud.IntegrationTesting">
+            </testcase>
+            <testcase
+                name="testUpdateBooking"
+                time="4.099"
+                classname="com.E2EAPIRAAExam2.tests.crud.IntegrationTesting">
+            </testcase>
+</testsuite>
